@@ -1,1 +1,3 @@
-# MS08-Assignments
+# CRUD with Nodejs, Express and Mongodb
+![](docs/screenshot.png)
+
