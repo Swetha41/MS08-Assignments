@@ -1,3 +1,3 @@
 # CRUD with Nodejs, Express and Mongodb
-![](docs/screenshot.png)
 
+In this app i have made REST API using CRUD opearation in mongo db
